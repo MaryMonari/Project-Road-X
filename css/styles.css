@@ -1,0 +1,44 @@
+.navbar {
+    display: inline-flex;
+    width: 100%;
+}
+
+body {
+  /*background-color: grey;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+  border: 1px solid black;
+  padding: 10px;*/
+
+}
+
+.katikati{
+	  text-align: center;
+}
+
+.dropdown{
+  padding-left: 470px;
+}
+li {
+  list-style: none;
+}
+.radio {
+
+width:auto;
+display: inline-block;
+margin-right:20px;
+}
+.fa-smile-o {
+  font-size: 5em;
+}
+.fa-meh-o {
+  font-size: 5em;
+}
+.fa-frown-o {
+  font-size: 5em;
+}
+.btn {
+  float: left;
+}
